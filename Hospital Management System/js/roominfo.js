@@ -1,0 +1,33 @@
+
+$(document).ready(function(){
+    $("#rr1").click(function(){
+        $("#infor1").slideToggle("slow");
+    });
+    $("#rr2").click(function(){
+        $("#infor2").slideToggle("slow");
+    });
+    $("#rr3").click(function(){
+        $("#infor3").slideToggle("slow");
+    });
+    $("#rr4").click(function(){
+        $("#infor4").slideToggle("slow");
+    });
+    $("#rr5").click(function(){
+        $("#infor5").slideToggle("slow");
+    });
+    $("#rr6").click(function(){
+        $("#infor6").slideToggle("slow");
+    });
+    $("#rr7").click(function(){
+        $("#infor7").slideToggle("slow");
+    });
+    $("#rr8").click(function(){
+        $("#infor8").slideToggle("slow");
+    });
+    $("#rr9").click(function(){
+        $("#infor9").slideToggle("slow");
+    });
+    $("#rr10").click(function(){
+        $("#infor10").slideToggle("slow");
+    });
+});

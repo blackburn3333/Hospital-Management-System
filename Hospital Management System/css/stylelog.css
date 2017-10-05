@@ -1,0 +1,26 @@
+body {
+	
+	background:url(../images/background.jpg) no-repeat center center fixed ;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	background-size:cover;
+}
+h1{
+	text-align:center;
+	font-family:"calibri";
+	font-size:60px;
+	padding-top:10px;
+	letter-spacing:5px;
+	
+}
+#mimg{
+	width:140px;
+	height:auto;
+}
+.btn{
+	height:45px;
+	width:200px;
+	font-size:18px;
+	font-family:"calibri";
+	}
